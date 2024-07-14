@@ -14,7 +14,7 @@ streamlit.set_page_config(page_title="company_view",layout='wide')
 # Import Dataset
 
 
-df=pd.read_csv(r'../FTC_Python/train.csv')
+df=pd.read_csv('train.csv')
 df1=df.copy()
 print(df1.head())
 
