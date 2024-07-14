@@ -129,7 +129,7 @@ def avg_std_time_by_traffic_density(df1):
 # ------------------
 # Import Dataset
 # ------------------
-df=pd.read_csv(r'../FTC_Python/train.csv')
+df=pd.read_csv('train.csv')
 df1=df.copy()
 
 # ------------------
