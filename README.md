@@ -87,7 +87,7 @@ This a training project with educational purpose.
 
 ### 5 - Final Product of the Project:
 - An online dashboard, hosted in the cloud and accessible from any device connected to the internet.
-- The dashboard can be accessed through this link: [https://project-curry-company.streamlit.app/](https://project-curry-company.streamlit.app/)
+- The dashboard can be accessed through this link: [[https://project-curry-company.streamlit.app/](https://project-curry-company.streamlit.app/)](https://thiago-projects-curry-company.streamlit.app/)
 
 ### 6 - Conclusion:
 - The goal of this project is to create a set of charts and/or tables that display these metrics in the best possible way for the CEO.
@@ -97,6 +97,3 @@ This a training project with educational purpose.
 1. Reduce the number of metrics.
 2. Create new filters.
 3. Add new business views.
-
-### In the Next Class:
-**Class 64: Writing the README**
