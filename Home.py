@@ -16,6 +16,9 @@ st.write("# Curry Company Growth Dashboard")
 st.markdown(
     """
     Growth Dashboard was built to track the growth metrics of Delivery People and Restaurants.
+    
+    Access the sidebar to the left to choose the views!!!!
+    
     ### How to use this Growth Dashboard?
     - Company View:
         - Managerial View: General behavior metrics.
